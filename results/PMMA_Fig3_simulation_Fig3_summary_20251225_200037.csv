@@ -1,0 +1,14 @@
+name,water productivity (kg/m2/hr),total efficiency (%),absorber temp (C),top surface temp (C)
+"Indoor, windless",4.29,280.79,68.25,33.84
+"Indoor, 2 m/s wind",3.86,252.52,66.16,28.79
+"Indoor, 4 m/s wind",3.8,248.56,65.85,27.86
+"Indoor, 6 m/s wind",3.77,246.75,65.71,27.4
+"Outdoor, windless",4.28,280.23,68.21,23.79
+"Outdoor, 2 m/s wind",3.85,252.0,66.12,24.28
+"Outdoor, windless, 20°C ambient temperature",4.05,265.23,65.94,20.68
+"Outdoor, windless, 30°C ambient temperature",4.5,294.87,70.55,26.8
+"Outdoor, windless, 35°C ambient temperature",4.72,309.13,73.0,29.67
+"Outdoor, windless, 40°C ambient temperature",4.93,323.02,75.57,32.41
+"Outdoor, 0.7 kW/m2 solar flux",2.7,252.77,59.74,21.93
+"Outdoor, 0.5 kW/m2 solar flux",1.74,227.22,52.89,20.41
+"Outdoor, 0.3 kW/m2 solar flux",0.86,188.39,44.65,18.57
